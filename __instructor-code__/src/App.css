@@ -1,14 +1,17 @@
 .App {
   text-align: center;
 }
-header{
-  background-color: aquamarine;
+
+header {
+  background-color: whitesmoke;
 }
-.finder-box{
+
+.finder-box {
   display: flex;
   justify-content: center;
 }
-.grass-img{
+
+.grass-img {
   width: 150px;
-  height: 150px;
+  height: 150px
 }
